@@ -19,4 +19,7 @@ public class Usuario extends EntityBase{
 
     @Column
     private String identificacion;
+
+    @Column
+    private String nacionalidad;
 }
